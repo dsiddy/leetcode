@@ -1,0 +1,6 @@
+root = true
+
+# Conform to PEP 8 (<https://www.python.org/dev/peps/pep-0008/>).
+[*.py]
+indent_style = space
+indent_size = 4
